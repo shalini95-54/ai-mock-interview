@@ -1,5 +1,5 @@
+import {Footer } from "@/components/footer";
 import Header from "@/components/header"
-import Footer from "@/components/footer";
 import {Outlet} from "react-router-dom"
 import { Container } from "@/components/container";
  export const MainLayout = () => {
